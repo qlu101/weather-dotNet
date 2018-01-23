@@ -1,0 +1,7 @@
+.git/
+.vs/
+.packages/
+forecast.io/bin/
+forecast.io/obj/
+WeatherService/bin/
+WeatherService/obj/
